@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-Este proyecto, desarrollado durante el bootcamp de Data Science, tiene como objetivo la creación de una base de datos relacional en PostgreSQL a partir de una serie de archivos CSV suministrados como fuente de datos. A lo largo del desarrollo, diseñamos desde cero tanto el **modelo lógico** como el **modelo relacional**, estructurando las tablas y relaciones según las necesidades del caso.
+Este proyecto, desarrollado durante el bootcamp de Data Science y Full Stack en colaboración, tiene como objetivo la creación de una base de datos relacional en PostgreSQL a partir de una serie de archivos CSV suministrados como fuente de datos. A lo largo del desarrollo, diseñamos desde cero tanto el **modelo lógico** como el **modelo relacional**, estructurando las tablas y relaciones según las necesidades del caso.
 
 Todo el proceso de transformación, normalización y carga de datos ha sido **automatizado mediante scripts en Python**, sin ninguna inserción manual. Para conectar con PostgreSQL hemos utilizado la librería `psycopg2`.
 
@@ -46,6 +46,8 @@ Como mejora en la gestión de credenciales, hemos incorporado un archivo `.env` 
 └── README.md
 
 ```
+
+
 
 
 
